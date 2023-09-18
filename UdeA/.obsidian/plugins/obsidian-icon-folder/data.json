@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "migrated": 2,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabChalkboardUser",
+      "FabShareNodes",
+      "LiUnlink2",
+      "LiLink",
+      "FabStackOverflow"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Tutorías": "LiPaperclip",
+  "Idiomas": "LiLanguages",
+  "Semestre 5": "Fab5",
+  "Semestre 5/Análisis y diseño de sistemas II": "FabComputerMouse",
+  "Semestre 5/Estructuras de datos y laboratorio": "FabDatabase",
+  "Semestre 5/Fábrica escuela": "FabReact",
+  "Semestre 5/Teoría de probabilidad y colas": "FabChartLine",
+  "Semestre 3": "Fab3",
+  "Semestre 4": "Fab4",
+  "Semestre 5/Estructuras de datos y laboratorio/Hashing estático.md": "LiFunctionSquare",
+  "Semestre 5/Estructuras de datos y laboratorio/Registros.md": "LiDatabase",
+  "Semestre 5/Estructuras de datos y laboratorio/Hashing.md": "LiFunctionSquare",
+  "Semestre 5/Estructuras de datos y laboratorio/Buckets.md": "LiDatabase",
+  "Semestre 5/Estructuras de datos y laboratorio/Índice general de notas.md": "FabNoteSticky",
+  "Semestre 5/Estructuras de datos y laboratorio/Direccionamiento abierto.md": "FabArrowTrendUp",
+  "Semestre 5/Estructuras de datos y laboratorio/Dudas.md": "FabQuestion",
+  "Semestre 5/Estructuras de datos y laboratorio/Borrado lógico.md": "LiEraser",
+  "Semestre 5/Estructuras de datos y laboratorio/Factor de carga.md": "LiUpload",
+  "Semestre 5/Estructuras de datos y laboratorio/Encadenamiento.md": "LiNetwork",
+  "Semestre 5/Estructuras de datos y laboratorio/Área de overflow.md": "FabStackOverflow",
+  "Semestre 3/Lógica y representación II/Ligas.md": "LiLink",
+  "Semestre 3/Lógica y representación II/Lista ligada.md": "LiUnlink2",
+  "Semestre 3/Lógica y representación II/Nodos.md": "FabShareNodes",
+  "Semestre 5/Estructuras de datos y laboratorio/Exposiciones": "FabChalkboardUser"
+}

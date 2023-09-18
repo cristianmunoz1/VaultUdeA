@@ -1,0 +1,1 @@
+Es un área en disco que nos permite, al momento de tener muchos [[Registros]] en el disco, y que estos empiecen a desbordar, guardarlos en esta área y ligarlos con el área de almacenamiento principal. 
