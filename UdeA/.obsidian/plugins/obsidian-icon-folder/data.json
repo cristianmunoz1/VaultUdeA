@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLineChart",
+      "FabStairs",
       "FabChalkboardUser",
-      "FabShareNodes",
-      "LiUnlink2",
-      "LiLink",
-      "FabStackOverflow"
+      "FabLanguage",
+      "FabRulerCombined"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,5 +45,16 @@
   "Semestre 3/Lógica y representación II/Ligas.md": "LiLink",
   "Semestre 3/Lógica y representación II/Lista ligada.md": "LiUnlink2",
   "Semestre 3/Lógica y representación II/Nodos.md": "FabShareNodes",
-  "Semestre 5/Estructuras de datos y laboratorio/Exposiciones": "FabChalkboardUser"
+  "Semestre 5/Estructuras de datos y laboratorio/Exposiciones": "FabChalkboardUser",
+  "Semestre 5/Teoría de probabilidad y colas/Variables aleatorias.md": "LiCoins",
+  "Semestre 2": "Fab2",
+  "Semestre 2/Matemáticas discretas I": "LiCalculator",
+  "Semestre 5/Teoría de probabilidad y colas/Espacio muestral.md": "LiCurlyBraces",
+  "Semestre 2/Matemáticas discretas I/Cálculo proposicional": "FabQ",
+  "Semestre 2/Matemáticas discretas I/Cálculo proposicional/Reglas de formación proposicional.md": "FabRulerCombined",
+  "Semestre 2/Matemáticas discretas I/Cálculo proposicional/Alfabeto proposicional.md": "FabLanguage",
+  "Semestre 2/Matemáticas discretas I/Cálculo proposicional/Cálculo proposicional.md": "LiCurlyBraces",
+  "Tutorías/Demostración de teoremas del enfoque axiomático.md": "FabChalkboardUser",
+  "Semestre 2/Matemáticas discretas I/Contínuo.md": "LiLineChart",
+  "Semestre 2/Matemáticas discretas I/Discreto.md": "FabStairs"
 }

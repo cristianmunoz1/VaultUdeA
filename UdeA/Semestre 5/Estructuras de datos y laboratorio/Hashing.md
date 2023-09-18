@@ -37,4 +37,3 @@ La función de transformación $f()$ debe:
 ### Tipos de hashing
 - [[Hashing estático]]
 - [[Hashing dinámico]]
-- 

@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Completo": "checkbox",
-    "Fecha de clase": "date"
+    "Fecha de clase": "date",
+    "Hora": "datetime"
   }
 }
