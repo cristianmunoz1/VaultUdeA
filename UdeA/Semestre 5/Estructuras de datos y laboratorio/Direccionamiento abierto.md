@@ -1,3 +1,10 @@
+---
+Asignatura: Estructuras de datos y laboratorio
+Tipo: Conceptual
+Completo: true
+Unidad: Unidad 1
+---
+
 Este direccionamiento de los [[Registros]] en el disco para mapearlos, se realiza con un rehashing. 
 Utilizamos una [[Función]] o una [[Familia de funciones]] para reubicar los [[Registros]] que generan colisión. 
 

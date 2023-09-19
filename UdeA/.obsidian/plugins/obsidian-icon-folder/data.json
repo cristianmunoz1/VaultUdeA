@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiLineChart",
-      "FabStairs",
-      "FabChalkboardUser",
-      "FabLanguage",
-      "FabRulerCombined"
+      "FasCalculator",
+      "TiBrackets",
+      "FabP",
+      "FabCompassDrafting",
+      "LiCurlyBraces"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,7 +38,6 @@
   "Semestre 5/Estructuras de datos y laboratorio/Índice general de notas.md": "FabNoteSticky",
   "Semestre 5/Estructuras de datos y laboratorio/Direccionamiento abierto.md": "FabArrowTrendUp",
   "Semestre 5/Estructuras de datos y laboratorio/Dudas.md": "FabQuestion",
-  "Semestre 5/Estructuras de datos y laboratorio/Borrado lógico.md": "LiEraser",
   "Semestre 5/Estructuras de datos y laboratorio/Factor de carga.md": "LiUpload",
   "Semestre 5/Estructuras de datos y laboratorio/Encadenamiento.md": "LiNetwork",
   "Semestre 5/Estructuras de datos y laboratorio/Área de overflow.md": "FabStackOverflow",
@@ -56,5 +55,15 @@
   "Semestre 2/Matemáticas discretas I/Cálculo proposicional/Cálculo proposicional.md": "LiCurlyBraces",
   "Tutorías/Demostración de teoremas del enfoque axiomático.md": "FabChalkboardUser",
   "Semestre 2/Matemáticas discretas I/Contínuo.md": "LiLineChart",
-  "Semestre 2/Matemáticas discretas I/Discreto.md": "FabStairs"
+  "Semestre 2/Matemáticas discretas I/Discreto.md": "FabStairs",
+  "Semestre 5/Teoría de probabilidad y colas/Variable aleatoria discreta.md": "FabStairs",
+  "Semestre 3/Lógica y representación II/Borrado lógico.md": "LiEraser",
+  "Semestre 5/Teoría de probabilidad y colas/Variable aleatoria contínua.md": "LiX",
+  "Semestre 5/Teoría de probabilidad y colas/Función de masa de probabilidad.md": "FabChartColumn",
+  "Semestre 2/Matemáticas discretas I/Conjunto.md": "LiCurlyBraces",
+  "Semestre 5/Teoría de probabilidad y colas/Experimento.md": "FabCompassDrafting",
+  "Semestre 2/Matemáticas discretas I/Cálculo proposicional/Proposiciones.md": "FabP",
+  "Semestre 2/Cálculo diferencial/Función.md": "LiLineChart",
+  "Semestre 2/Cálculo diferencial/Intervalos de números reales.md": "TiBrackets",
+  "Semestre 2/Cálculo diferencial": "FasCalculator"
 }

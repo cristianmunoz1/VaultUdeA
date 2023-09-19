@@ -1,3 +1,11 @@
+---
+Asignatura: Teoría de probabilidad y colas
+Tipo: Conceptual
+Completo: true
+Unidad: Unidad 2
+---
+
+
 Es el [[Conjunto]] de todos los posibles resultados de cualquier [[Experimento]] que estemos realizando. 
 
 Generalmente se representa con la letra mayúscula S.

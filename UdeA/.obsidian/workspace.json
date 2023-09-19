@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestre 2/Matemáticas discretas I/Contínuo.md",
+                "file": "Semestre 5/Teoría de probabilidad y colas/Función de distribución acumulada v.a.d.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proposiciones.md",
+                "file": "Semestre 5/Estructuras de datos y laboratorio/Hashing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b395f88a446cee8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestre 5/Teoría de probabilidad y colas/Variable aleatoria contínua.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bbd5dce51937cd84",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestre 2/Matemáticas discretas I/Contínuo.md",
+                "file": "Semestre 5/Teoría de probabilidad y colas/Variable aleatoria contínua.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestre 2/Matemáticas discretas I/Contínuo.md",
+                "file": "Semestre 5/Teoría de probabilidad y colas/Variable aleatoria contínua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestre 2/Matemáticas discretas I/Contínuo.md"
+                "file": "Semestre 5/Teoría de probabilidad y colas/Variable aleatoria contínua.md"
               }
             }
           }
@@ -160,43 +174,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ecaa401726b40fe",
+  "active": "5b395f88a446cee8",
   "lastOpenFiles": [
-    "Semestre 2/Matemáticas discretas I/Cálculo proposicional/Reglas de formación proposicional.md",
-    "Semestre 2/Matemáticas discretas I/Cálculo proposicional/Cálculo proposicional.md",
-    "Semestre 2/Matemáticas discretas I/Cálculo proposicional/Alfabeto proposicional.md",
-    "Semestre 2/Matemáticas discretas I/Discreto.md",
-    "Semestre 2/Matemáticas discretas I/Contínuo.md",
-    "Tutorías/Demostración de teoremas del enfoque axiomático.md",
-    "Semestre 5/Teoría de probabilidad y colas/Espacio muestral.md",
-    "Proposiciones.md",
-    "Semestre 2/Matemáticas discretas I/Cálculo proposicional",
+    "Función de densidad de probabilidad.md",
+    "Semestre 5/Teoría de probabilidad y colas/Variable aleatoria contínua.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Hashing.md",
+    "Semestre 5/Teoría de probabilidad y colas/Función de distribución acumulada v.a.d.md",
     "Semestre 5/Teoría de probabilidad y colas/Variables aleatorias.md",
+    "Semestre 5/Teoría de probabilidad y colas/Variable aleatoria discreta.md",
+    "Pasted image 20230918192909.png",
+    "Semestre 5/Teoría de probabilidad y colas/Función de masa de probabilidad.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Registros.md",
+    "Semestre 3/Lógica y representación II/Nodos.md",
+    "Semestre 5/Análisis y diseño de sistemas II/Untitled.md",
+    "Semestre 2/Cálculo diferencial/Función.md",
+    "Semestre 2/Cálculo diferencial/Intervalos de números reales.md",
+    "Semestre 3/Matemáticas discretas II/Función módulo.md",
+    "Semestre 3/Lógica y representación II/Lista ligada.md",
+    "Semestre 5/Teoría de probabilidad y colas/Experimento.md",
+    "Semestre 2/Matemáticas discretas I/Cálculo proposicional/Proposiciones.md",
+    "Semestre 2/Matemáticas discretas I/Conjunto.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Encadenamiento separado.md",
+    "Semestre 3/Lógica y representación II/Ligas.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Área de overflow.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Hashing dinámico.md",
+    "Semestre 3/Lógica y representación II/Borrado lógico.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Factor de carga.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Direccionamiento abierto.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Encadenamiento.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Exposiciones/WebSocket.md",
+    "Semestre 2/Cálculo diferencial",
+    "Semestre 2/Matemáticas discretas I/Cálculo proposicional",
     "Semestre 2/Matemáticas discretas I",
     "Semestre 2",
-    "Semestre 5/Estructuras de datos y laboratorio/Hashing.md",
-    "Semestre 5/Estructuras de datos y laboratorio/Registros.md",
-    "Semestre 5/Estructuras de datos y laboratorio/Exposiciones/CSS.md",
-    "Semestre 5/Estructuras de datos y laboratorio/Exposiciones/WebSocket.md",
-    "Semestre 5/Estructuras de datos y laboratorio/Hashing dinámico.md",
     "Semestre 5/Estructuras de datos y laboratorio/Exposiciones",
-    "Semestre 5/Estructuras de datos y laboratorio/Hashing estático.md",
-    "Semestre 5/Estructuras de datos y laboratorio/Encadenamiento separado.md",
-    "Semestre 5/Estructuras de datos y laboratorio/Área de overflow.md",
-    "Semestre 5/Estructuras de datos y laboratorio/Encadenamiento.md",
-    "Semestre 5/Estructuras de datos y laboratorio/Borrado lógico.md",
-    "Semestre 3/Lógica y representación II/Lista ligada.md",
-    "Semestre 3/Lógica y representación II/Nodos.md",
-    "Semestre 3/Lógica y representación II/Ligas.md",
     "Semestre 3/Lógica y representación II",
-    "Semestre 5/Estructuras de datos y laboratorio/Direccionamiento abierto.md",
-    "Semestre 5/Estructuras de datos y laboratorio/Dudas.md",
-    "Semestre 5/Estructuras de datos y laboratorio/Buckets.md",
-    "Semestre 5/Estructuras de datos y laboratorio/Factor de carga.md",
     "Semestre 3/Matemáticas discretas II",
     "Semestre 4",
     "Semestre 3",
-    "Semestre 5",
-    "Idiomas/Meetings"
+    "Semestre 5"
   ]
 }
