@@ -1,7 +1,7 @@
 ---
 Asignatura: Teoría de probabilidad y colas
 Tipo: Conceptual
-Completo: false
+Completo: true
 Unidad: Unidad 3
 ---
 
@@ -18,7 +18,7 @@ Si la variable aleatoria es $X$, lo denotamos como $A_X$
 
 ---
 
-**Ejemplo:** Si tiramos 3 monedas no cargadas al aire, ¿Cual es la probabilidad de que salgan 2 caras?
+**Ejemplo:** Si tiramos 3 monedas no cargadas al aire, ¿Cual es la [[Probabilidad]] de que salgan 2 caras?
 
 **Solución:** 
 - $C$ representa un resultado equivalente a Cara, $R$ representa sello.

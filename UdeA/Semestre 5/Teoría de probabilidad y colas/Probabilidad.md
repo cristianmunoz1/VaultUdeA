@@ -1,7 +1,6 @@
 ---
 Asignatura: Teoría de probabilidad y colas
 Tipo: Conceptual
-Unidad: Unidad 1
-Completo:
+Completo: 
+Unidad: Unidad 3
 ---
-[[Probabilidad]]

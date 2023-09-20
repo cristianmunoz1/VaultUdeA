@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiFunction",
+      "TiLanguageKatakana",
       "FasCalculator",
       "TiBrackets",
-      "FabP",
-      "FabCompassDrafting",
-      "LiCurlyBraces"
+      "FabP"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -65,5 +65,7 @@
   "Semestre 2/Matemáticas discretas I/Cálculo proposicional/Proposiciones.md": "FabP",
   "Semestre 2/Cálculo diferencial/Función.md": "LiLineChart",
   "Semestre 2/Cálculo diferencial/Intervalos de números reales.md": "TiBrackets",
-  "Semestre 2/Cálculo diferencial": "FasCalculator"
+  "Semestre 2/Cálculo diferencial": "FasCalculator",
+  "Semestre 5/English III": "TiLanguageKatakana",
+  "Semestre 5/Teoría de probabilidad y colas/Función de distribución acumulada v.a.d.md": "TiFunction"
 }

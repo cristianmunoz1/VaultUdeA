@@ -8,6 +8,8 @@ Unidad: Unidad 2
 
 Es el [[Conjunto]] de todos los posibles resultados de cualquier [[Experimento]] que estemos realizando. 
 
+Cuando calculamos $n(S)$ calculamos el número de resultados posibles para el [[Experimento]] medido. Esto nos ayuda a calcular la [[Probabilidad]] usando la definición simple. 
+
 Generalmente se representa con la letra mayúscula S.
 
 **Ejemplos**:

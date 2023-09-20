@@ -1,10 +1,10 @@
 ---
 Asignatura: Teoría de probabilidad y colas
 Tipo: Conceptual
-Completo: 
+Completo: true
 Unidad: Unidad 3
 ---
-La función de masa de probabilidad de una [[Variable aleatoria discreta]] $X$ definida en un espacio muestral $S$, es una función matemática que asigna una probabilidad a cada realización $x$ de la variable $X$. Se define así:
+La función de masa de probabilidad de una [[Variable aleatoria discreta]] $X$ definida en un espacio muestral $S$, es una función matemática que asigna una [[Probabilidad]] a cada realización $x$ de la variable $X$. Se define así:
 
 $$p(X)=P(X=x), \forall x \in X$$
 Y podemos representar esta función de 3 maneras diferentes:

@@ -15,8 +15,7 @@ Una variable aleatoria es contínua si sus valores consisten en un intervalo o l
 - Corriente
 - Temperatura
 
-Como en las [[Variable aleatoria discreta]] también podemos extraer información valiosa de las variables aleatorias contínuas. Como por ejemplo:
+Como en las [[Variable aleatoria discreta]] también podemos extraer información valiosa de las variables aleatorias contínuas relacionado con la [[Probabilidad]] de los eventos. Como por ejemplo:
 
 - [[Función de densidad de probabilidad]]
 - [[Función de distribución acumulada v.a.c]]
-- 
