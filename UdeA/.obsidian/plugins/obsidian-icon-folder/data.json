@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiLayersDifference",
+      "TiChartBubble",
+      "TiChartLine",
       "FasE",
-      "FabImage",
-      "TiMathFunction",
-      "FabDice",
-      "TiFunction"
+      "FabImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -72,5 +72,10 @@
   "Semestre 5/Teoría de probabilidad y colas/Función de distribución acumulada v.a.c.md": "TiMathFunction",
   "Semestre 5/Teoría de probabilidad y colas/Función de densidad de probabilidad.md": "TiFunction",
   "Imágenes adjuntas": "FabImage",
-  "Semestre 5/Teoría de probabilidad y colas/Valor esperado.md": "FasE"
+  "Semestre 5/Teoría de probabilidad y colas/Valor esperado.md": "FasE",
+  "Semestre 5/Teoría de probabilidad y colas/Varianza (v.a).md": "TiChartLine",
+  "Semestre 5/Teoría de probabilidad y colas/Medida de dispersión.md": "TiChartBubble",
+  "Semestre 5/Teoría de probabilidad y colas/Desviación estándar (v.a).md": "TiLayersDifference",
+  "Semestre 5/Teoría de probabilidad y colas/Distribución Bernoulli.md": "TiChartLine",
+  "Semestre 5/Teoría de probabilidad y colas/Distribución de variables aleatorias discretas.md": "TiChartLine"
 }
