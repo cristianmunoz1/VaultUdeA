@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiFunction",
-      "TiLanguageKatakana",
-      "FasCalculator",
-      "TiBrackets",
-      "FabP"
+      "FasE",
+      "FabImage",
+      "TiMathFunction",
+      "FabDice",
+      "TiFunction"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -67,5 +67,10 @@
   "Semestre 2/Cálculo diferencial/Intervalos de números reales.md": "TiBrackets",
   "Semestre 2/Cálculo diferencial": "FasCalculator",
   "Semestre 5/English III": "TiLanguageKatakana",
-  "Semestre 5/Teoría de probabilidad y colas/Función de distribución acumulada v.a.d.md": "TiFunction"
+  "Semestre 5/Teoría de probabilidad y colas/Función de distribución acumulada v.a.d.md": "TiFunction",
+  "Semestre 5/Teoría de probabilidad y colas/Probabilidad.md": "FabDice",
+  "Semestre 5/Teoría de probabilidad y colas/Función de distribución acumulada v.a.c.md": "TiMathFunction",
+  "Semestre 5/Teoría de probabilidad y colas/Función de densidad de probabilidad.md": "TiFunction",
+  "Imágenes adjuntas": "FabImage",
+  "Semestre 5/Teoría de probabilidad y colas/Valor esperado.md": "FasE"
 }
