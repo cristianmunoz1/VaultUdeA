@@ -3,6 +3,7 @@ Asignatura: Teoría de probabilidad y colas
 Tipo: Conceptual
 Completo: true
 Unidad: Unidad 3
+Tema general: Variables aleatorias contínuas
 ---
 Sea $X$ una variable aleatoria contínua. La función de densidad de probabilidad (f.d.p) de $X$, representada por $f_X(x)$ es tal que:
 

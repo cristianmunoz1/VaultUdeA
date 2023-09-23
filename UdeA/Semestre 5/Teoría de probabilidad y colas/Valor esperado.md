@@ -3,6 +3,7 @@ Asignatura: Teoría de probabilidad y colas
 Tipo: Conceptual
 Completo: true
 Unidad: Unidad 3
+Tema general: Variables aleatorias
 ---
 Sea $X$ una [[Variable aleatoria contínua]] o una [[Variable aleatoria discreta]] con [[Función de densidad de probabilidad]] o [[Función de masa de probabilidad]] $f_X(x)$ o $p(x)$, la esperanza de $X$, o el valor esperado de $X$, o el valor promedio de $X$, denotado como $E[X]$ se define así:
 

@@ -3,6 +3,7 @@ Asignatura: Teoría de probabilidad y colas
 Tipo: Conceptual
 Completo: 
 Unidad: Unidad 3
+Tema general: Distribuciones de variables aleatorias discretas
 ---
 La distribución binomial es una generalización de la [[Distribución Bernoulli]]. Igualmente se estudiarán experimentos dicotómicos. Pero se puede realizar el experimento $n$ veces.
 

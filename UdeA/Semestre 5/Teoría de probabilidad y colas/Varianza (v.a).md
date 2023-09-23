@@ -3,6 +3,7 @@ Asignatura: Teoría de probabilidad y colas
 Tipo: Conceptual
 Completo: true
 Unidad: Unidad 3
+Tema general: Variables aleatorias
 ---
 Sea $g(X)$ = $(X-\mu_X)^2$, la varianza de $X$, denotada como $Var[X]$ o $\sigma_X^2$ o $\sigma^2$, se define así:
 $$Var[X]=E[(X-\mu_X)^2]=E[X^2]-(E[X])^2$$

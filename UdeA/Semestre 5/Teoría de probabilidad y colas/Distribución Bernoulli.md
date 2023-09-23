@@ -3,6 +3,7 @@ Asignatura: Teoría de probabilidad y colas
 Tipo: Conceptual
 Completo: true
 Unidad: Unidad 3
+Tema general: Distribuciones de variables aleatorias discretas
 ---
 Si $X$ es una [[Variable aleatoria discreta]] con una distribución Bernoulli, entonces, su distribución de probabilidad está dada por:
 

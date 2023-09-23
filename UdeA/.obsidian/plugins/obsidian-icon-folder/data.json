@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiLayersDifference",
-      "TiChartBubble",
-      "TiChartLine",
-      "FasE",
-      "FabImage"
+      "TiChartHistogram",
+      "FabPeopleArrowsLeftRight",
+      "FarChartLine",
+      "FasChartArea",
+      "FarChartArea"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -77,5 +77,10 @@
   "Semestre 5/Teoría de probabilidad y colas/Medida de dispersión.md": "TiChartBubble",
   "Semestre 5/Teoría de probabilidad y colas/Desviación estándar (v.a).md": "TiLayersDifference",
   "Semestre 5/Teoría de probabilidad y colas/Distribución Bernoulli.md": "TiChartLine",
-  "Semestre 5/Teoría de probabilidad y colas/Distribución de variables aleatorias discretas.md": "TiChartLine"
+  "Semestre 5/Teoría de probabilidad y colas/Distribución de variables aleatorias discretas.md": "TiChartLine",
+  "Semestre 5/Teoría de probabilidad y colas/Distribución binomial.md": "FarChartArea",
+  "Semestre 5/Teoría de probabilidad y colas/Distribución hipergeométrica.md": "FasChartArea",
+  "Semestre 5/Teoría de probabilidad y colas/Distribución Poisson.md": "FarChartLine",
+  "Semestre 5/Teoría de probabilidad y colas/Muestra.md": "FabPeopleArrowsLeftRight",
+  "Semestre 5/Teoría de probabilidad y colas/Distribución normal.md": "TiChartHistogram"
 }

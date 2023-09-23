@@ -3,6 +3,7 @@ Asignatura: Teoría de probabilidad y colas
 Tipo: Conceptual
 Completo: 
 Unidad: Unidad 3
+Tema general: Variables aleatorias
 ---
 Una variable aleatoria es contínua si sus valores consisten en un intervalo o la unión de [[Intervalos de números reales]], acotados o no acotados. 
 

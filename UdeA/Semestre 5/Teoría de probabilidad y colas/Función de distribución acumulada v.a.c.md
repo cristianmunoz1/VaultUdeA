@@ -3,6 +3,7 @@ Asignatura: Teoría de probabilidad y colas
 Tipo: Conceptual
 Completo: true
 Unidad: Unidad 3
+Tema general: Variables aleatorias contínuas
 ---
 La función de distribución acumulada para una [[Variable aleatoria contínua]] $X$ es la probabilidad de que $X$ tome un valor menor o igual a $x$, es decir:
 $$F_X(x)=P(X\leq x) = \int_{-\infty}^{x}f_Y(y)dy$$

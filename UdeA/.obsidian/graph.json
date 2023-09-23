@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,44 +8,72 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "Probabilidad",
+      "query": "Teoría de probabilidad y colas",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "Estructuras de datos",
+      "query": "Estructuras de datos y laboratorio",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "Matemáticas discretas",
+      "query": "Matemáticas discretas I",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
+      "query": "Matemáticas discretas II",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "Cálculo diferencial",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "Cálculo integral",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "English",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
       "query": "Lógica y representación II",
       "color": {
         "a": 1,
-        "rgb": 5526240
+        "rgb": 11621088
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1.6,
+  "nodeSizeMultiplier": 0.865625,
+  "lineSizeMultiplier": 1.14635416666667,
   "collapse-forces": false,
-  "centerStrength": 0,
+  "centerStrength": 0.75,
   "repelStrength": 20,
-  "linkStrength": 0,
-  "linkDistance": 500,
-  "scale": 0.03018289351116805,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.45050804799449984,
   "close": false
 }

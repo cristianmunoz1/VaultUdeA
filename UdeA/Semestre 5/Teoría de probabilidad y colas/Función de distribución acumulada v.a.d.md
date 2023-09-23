@@ -3,6 +3,7 @@ Asignatura: Teoría de probabilidad y colas
 Tipo: Conceptual
 Completo: true
 Unidad: Unidad 3
+Tema general: Variables aleatorias discretas
 ---
 Sea $X$ una variable aleatoria discreta con [[Función de masa de probabilidad]] $p(x)$. La función de distribución acumulada de $X$, se representan con $F_X(x)$ y se define como:
 $$F_X(x)=P(X\leq x)=\sum_{x'\leq x}p(x')$$ $$\forall x \in \mathbb R$$
