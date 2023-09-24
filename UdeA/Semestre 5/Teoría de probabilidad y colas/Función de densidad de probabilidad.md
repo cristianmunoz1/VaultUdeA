@@ -21,4 +21,4 @@ $$\int_{a}^{b}=f_X(x)dx$$
 
 Note que la probabilidad del intervalo $a\leq X\leq b$ es el área acotada por la función de densidad y las rectas $X=a$ y $X=b$.
 
-![[Pasted image 20230919194110.png]]
+![[Figura 2.png]]

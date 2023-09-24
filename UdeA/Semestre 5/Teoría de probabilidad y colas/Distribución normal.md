@@ -1,7 +1,7 @@
 ---
 Asignatura: Teoría de probabilidad y colas
 Tipo: Conceptual
-Completo: 
+Completo: true
 Unidad: Unidad 3
 Fecha de clase: 2023-09-20
 Tema general: Distribuciones de variables aleatorias contínuas
@@ -22,7 +22,7 @@ A $\sigma$ se le llama parámetro de escala porque nos modificará la curtosis d
 
 Se dice entonces que $X \sim N(\mu, \sigma^2)$
 
-![[Pasted image 20230922120334.png]]
+![[Figura 10.png]]
 
 
 ### Características
@@ -100,7 +100,7 @@ $$P(x_1<X<x_2)=P(z_1<Z<z_2)=\phi (z_2)-\phi(z_1)$$
 
 **Densidad de la normal estándar** $N(\mu=0, \sigma^2=1)$
 
-![[Pasted image 20230922202219.png]]
+![[Figura 12.png]]
 
 ### Propiedades (simetría)
 

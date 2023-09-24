@@ -4,43 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "ff102195762cd5a7",
+        "id": "a8ee4c57a54979c6",
         "type": "tabs",
         "children": [
           {
-            "id": "7eafacca4bb6e2e2",
+            "id": "4cd988f85f885fc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestre 5/Teoría de probabilidad y colas/Varianza (v.a).md",
+                "file": "Semestre 5/Estructuras de datos y laboratorio/Hashing dinámico lineal.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b5ecebcde54f87f4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "665d8bb06cb55938",
+            "id": "77562388bf16752c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestre 5/Teoría de probabilidad y colas/Distribución normal.md",
+                "file": "Semestre 5/Estructuras de datos y laboratorio/Factor de carga.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestre 5/Teoría de probabilidad y colas/Distribución normal.md",
+                "file": "Semestre 5/Estructuras de datos y laboratorio/Hashing dinámico lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestre 5/Teoría de probabilidad y colas/Distribución normal.md",
+                "file": "Semestre 5/Estructuras de datos y laboratorio/Hashing dinámico lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestre 5/Teoría de probabilidad y colas/Distribución normal.md"
+                "file": "Semestre 5/Estructuras de datos y laboratorio/Hashing dinámico lineal.md"
               }
             }
           },
@@ -178,45 +168,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "665d8bb06cb55938",
+  "active": "8ecaa401726b40fe",
   "lastOpenFiles": [
-    "Imágenes adjuntas/Pasted image 20230922202219.png",
+    "Imágenes adjuntas/Figura 13.png",
+    "Imágenes adjuntas/Figura 13.png",
+    "Semestre 5/Estructuras de datos y laboratorio/Factor de carga.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Hashing dinámico lineal.md",
     "Semestre 5/Teoría de probabilidad y colas/Distribución normal.md",
-    "Semestre 5/Teoría de probabilidad y colas/Varianza (v.a).md",
-    "Imágenes adjuntas/Pasted image 20230922125534.png",
-    "Semestre 5/Teoría de probabilidad y colas/Distribución Poisson.md",
+    "Imágenes adjuntas/Figura 12.png",
+    "Imágenes adjuntas/Figura 3.png",
+    "Semestre 5/Estructuras de datos y laboratorio/Hashing dinámico.md",
+    "Tutorías/Simulación parcial proposicional 2021-2.md",
+    "Tutorías/Demostración de teoremas del enfoque axiomático.md",
+    "Imágenes adjuntas/Figura 11.png",
+    "Imágenes adjuntas/Figura 10.png",
+    "Imágenes adjuntas/Figura 9.png",
+    "Imágenes adjuntas/Figura 8.png",
+    "Imágenes adjuntas/Figura 7.png",
+    "Imágenes adjuntas/Figura 6.png",
+    "Imágenes adjuntas/Figura 5.png",
+    "Untitled.md",
+    "Semestre 5/Teoría de probabilidad y colas/Función de densidad de probabilidad.md",
+    "Semestre 5/Teoría de probabilidad y colas/Distribución binomial.md",
     "Semestre 5/Teoría de probabilidad y colas/Distribución hipergeométrica.md",
     "Semestre 5/Teoría de probabilidad y colas/Distribución de variables aleatorias discretas.md",
-    "Semestre 5/Teoría de probabilidad y colas/Distribución binomial.md",
-    "Imágenes adjuntas/Pasted image 20230922120334.png",
-    "Semestre 5/Fábrica escuela/Distribución uniforme contínua.md",
-    "Pasted image 20230922112134.png",
-    "Semestre 5/Teoría de probabilidad y colas/Variables aleatorias.md",
+    "Semestre 5/Teoría de probabilidad y colas/Distribución Bernoulli.md",
+    "Semestre 5/Teoría de probabilidad y colas/Varianza (v.a).md",
+    "Semestre 5/Teoría de probabilidad y colas/Función de masa de probabilidad.md",
     "Semestre 5/Teoría de probabilidad y colas/Variable aleatoria discreta.md",
+    "Semestre 5/Teoría de probabilidad y colas/Variables aleatorias.md",
+    "Semestre 5/Teoría de probabilidad y colas/Distribución Poisson.md",
+    "Semestre 5/Fábrica escuela/Distribución uniforme contínua.md",
     "Semestre 5/Teoría de probabilidad y colas/Variable aleatoria contínua.md",
     "Semestre 5/Teoría de probabilidad y colas/Valor esperado.md",
     "Semestre 5/Teoría de probabilidad y colas/Probabilidad.md",
     "Semestre 5/Teoría de probabilidad y colas/Muestra.md",
     "Semestre 5/Teoría de probabilidad y colas/Medida de dispersión.md",
-    "Semestre 5/Teoría de probabilidad y colas/Función de masa de probabilidad.md",
     "Semestre 5/Teoría de probabilidad y colas/Función de distribución acumulada v.a.d.md",
     "Semestre 5/Teoría de probabilidad y colas/Función de distribución acumulada v.a.c.md",
-    "Semestre 5/Teoría de probabilidad y colas/Función de densidad de probabilidad.md",
-    "Semestre 5/Teoría de probabilidad y colas/Experimento.md",
-    "Semestre 5/Teoría de probabilidad y colas/Espacio muestral.md",
-    "Semestre 5/Teoría de probabilidad y colas/Distribución Bernoulli.md",
-    "Semestre 5/Teoría de probabilidad y colas/Desviación estándar (v.a).md",
-    "Semestre 5/English III/Random Notes.md",
-    "Tutoría.md",
-    "Semestre 2/Matemáticas discretas I/Cálculo proposicional/Proposiciones.md",
-    "Pasted image 20230921195038.png",
-    "Pasted image 20230921194811.png",
-    "Pasted image 20230921183217.png",
-    "Imágenes adjuntas/Pasted image 20230920153649.png",
-    "Imágenes adjuntas/Pasted image 20230920153617.png",
-    "Imágenes adjuntas/Pasted image 20230920152223.png",
     "Imágenes adjuntas",
-    "Imágenes adjuntas/Pasted image 20230920102653.png",
     "Tareas prueba",
     "Semestre 3/Cálculo integral",
     "Semestre 5/English III",

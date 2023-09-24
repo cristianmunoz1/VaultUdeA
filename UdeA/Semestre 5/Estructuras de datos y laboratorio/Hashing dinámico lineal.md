@@ -3,6 +3,7 @@ Asignatura: Estructuras de datos y laboratorio
 Tipo: Conceptual
 Completo: 
 Unidad: Unidad 1
+Fecha de clase: 2023-09-11
 ---
 Para realizar un hashing dinámico lineal debemos tener una [[Función]] en $k$ bits, y otra función en $k+1$ bits.
 Supongamos que tenemos m [[Buckets]] reservados y un área de overflow. De la misma manera que se hace en [[Hashing estático]].
@@ -22,3 +23,14 @@ Luego de la búsqueda, realizamos la inserción del registro de la siguiente man
 	1. Distribuímos el bucket límite entre él y el $m-1$ usando $k+1$ bits.
 	2. Sumamos $1$ al límite. 
 	3. Si límite es igual a $2^k$ entonces asignamos $0$ a límite y sumamos $1$ a $k$.
+
+
+Su inicialización se realiza de la siguiente manera:
+
+- Determinar $Lf$
+- Inicializar $k=1$
+- Calcular $m=2^k$
+- Incializar $lim=0$
+### Ejemplo gráfico
+
+![[Figura 13.png]]

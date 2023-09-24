@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiStackshareLine",
       "TiChartHistogram",
       "FabPeopleArrowsLeftRight",
       "FarChartLine",
-      "FasChartArea",
-      "FarChartArea"
+      "FasChartArea"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -82,5 +82,6 @@
   "Semestre 5/Teoría de probabilidad y colas/Distribución hipergeométrica.md": "FasChartArea",
   "Semestre 5/Teoría de probabilidad y colas/Distribución Poisson.md": "FarChartLine",
   "Semestre 5/Teoría de probabilidad y colas/Muestra.md": "FabPeopleArrowsLeftRight",
-  "Semestre 5/Teoría de probabilidad y colas/Distribución normal.md": "TiChartHistogram"
+  "Semestre 5/Teoría de probabilidad y colas/Distribución normal.md": "TiChartHistogram",
+  "Semestre 5/Estructuras de datos y laboratorio/Encadenamiento separado.md": "RiStackshareLine"
 }

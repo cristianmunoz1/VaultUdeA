@@ -31,6 +31,6 @@ D: "Se conserva una buena actitud ante la adversidad"
 
 
 
-![[Pasted image 20230921194811.png]]
-![[Pasted image 20230921195038.png]]
+![[Figura 7.png]]
+![[Figura 8.png]]
 

@@ -38,7 +38,7 @@ $F(3)=P(X\leq 3)=P(X=0)+p(X=1)+p(X=2)+p(X=3)=\frac{1}{8}+\frac{3}{8}+\frac{3}{8}
 $F(x)=\left\{\begin{array}{l}0, \text { si } x<0 \\ \frac{1}{8}, \text { si } 0 \leq x<1 \\ \frac{4}{8}, \text { si } 1 \leq x<2 \\ \frac{7}{8}, \text { si } 2 \leq x<3 \\ 1, \text { si } x \geq 3\end{array}\right.$
 
 **Presentación en gráfica: **
-![[Pasted image 20230918192909.png]]
+![[Figura 1.png]]
 
 
 ### Propiedades

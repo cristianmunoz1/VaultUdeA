@@ -59,7 +59,7 @@ $$F_X(x)=\left\{\begin{array}{l}
 \end{array}\right.$$
 
 **Gráficamente:**
-![[Pasted image 20230920102653.png]]
+![[Figura 3.png]]
 
 3. Como sabemos que la [[Función de densidad de probabilidad]] se mueve solamente entre $-1$ y $1$, lo que hacemos es partir la integral de la siguiente manera:
 	Sabemos que por definición:

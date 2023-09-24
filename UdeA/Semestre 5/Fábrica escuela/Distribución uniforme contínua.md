@@ -13,7 +13,7 @@ $$f(x; a,b)=\left\{\begin{array}{cc}\frac{1}{b-a}   \text{    Si a }\leq x \leq 
 - Se dice entonces que $X\sim U_{[a,b]}$
 - Todos los valores de $X$ dentro de $[a, b]$ son equiprobables.
 
-![[Pasted image 20230922112134.png]]
+![[Figura 9.png]]
 
 La [[Función de distribución acumulada v.a.c]] la podemos calcular de la siguiente manera:
 

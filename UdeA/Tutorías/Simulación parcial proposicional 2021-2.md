@@ -6,15 +6,15 @@ Unidad: Unidad 1
 ---
 ---
 
-![[Pasted image 20230920152223.png]]
+![[Figura 4.png]]
 
 ---
 
-![[Pasted image 20230920153617.png]]
+![[Figura 5.png]]
 
 ---
 
-![[Pasted image 20230920153649.png]]
+![[Figura 6.png]]
 Sabemos que para que un **condicional sea falso**, el **antecedente** debe ser **verdadero** y el **consecuente falso**. 
 Por lo tanto, en el antecendente tenemos una conjunción:
 $R\land P$
