@@ -3,6 +3,7 @@ Asignatura: Estructuras de datos y laboratorio
 Tipo: Conceptual
 Completo: true
 Unidad: Unidad 1
+Fecha: 2023-09-07
 ---
 
 Esta técnica nos permite resolver colisiones al momento de hacer hashing estático y soluciona el problema planteado cuando usamos [[Encadenamiento]].

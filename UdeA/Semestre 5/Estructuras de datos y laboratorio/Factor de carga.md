@@ -3,6 +3,7 @@ Asignatura: Estructuras de datos y laboratorio
 Tipo: Conceptual
 Completo: true
 Unidad: Unidad 1
+Fecha: 2023-08-29
 ---
 
 Es una relación entre el número de [[Buckets]] ocupados por datos y el espacio total libre que se tiene para mapear registros. 

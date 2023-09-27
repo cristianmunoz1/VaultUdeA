@@ -5,6 +5,7 @@
     "tags": "tags",
     "Completo": "checkbox",
     "Fecha de clase": "date",
-    "Hora": "datetime"
+    "Hora": "datetime",
+    "Fecha": "date"
   }
 }

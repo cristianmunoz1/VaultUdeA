@@ -1,9 +1,9 @@
 ---
 Asignatura: Estructuras de datos y laboratorio
 Tipo: Conceptual
-Completo: 
+Completo: true
 Unidad: Unidad 1
-Fecha de clase: 2023-09-11
+Fecha: 2023-09-11
 ---
 Para realizar un hashing dinámico lineal debemos tener una [[Función]] en $k$ bits, y otra función en $k+1$ bits.
 Supongamos que tenemos m [[Buckets]] reservados y un área de overflow. De la misma manera que se hace en [[Hashing estático]].

@@ -3,6 +3,7 @@ Asignatura: Estructuras de datos y laboratorio
 Tipo: Conceptual
 Unidad: Unidad 1
 Completo: true
+Fecha: 2023-09-06
 ---
 
 Esta técnica para resolver las colisiones cuando usamos [[Hashing estático]] nos indica que, cuando haya una colisión, debemos pedir más espacio en disco, ([[Área de overflow]]) y conforme lleguen registros colisionados se mapearán de forma lineal en dicho espacio. 

@@ -1,8 +1,9 @@
 ---
 Asignatura: Estructuras de datos y laboratorio
 Unidad: Unidad 1
-Completo: 
-Fecha de clase: 2023-09-04
+Completo: true
+Fecha: 2023-09-11
+Tipo: Conceptual
 ---
 
 Antes de definirlo, debemos saber, ¿Cual es una función que se mueve entre 0 y m?, siendo m el número de [[Buckets]] reservados en un disco. 

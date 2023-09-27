@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestre 5/Estructuras de datos y laboratorio/Árbol M-way.md",
+                "file": "Semestre 5/Estructuras de datos y laboratorio/Árboles B.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestre 5/Estructuras de datos y laboratorio/Árbol M-way.md",
+                "file": "Semestre 5/Estructuras de datos y laboratorio/Árboles B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestre 5/Estructuras de datos y laboratorio/Árbol M-way.md",
+                "file": "Semestre 5/Estructuras de datos y laboratorio/Árboles B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestre 5/Estructuras de datos y laboratorio/Árbol M-way.md"
+                "file": "Semestre 5/Estructuras de datos y laboratorio/Árboles B.md"
               }
             }
           },
@@ -158,6 +158,22 @@
   },
   "active": "ea39c5c18e54111d",
   "lastOpenFiles": [
+    "Semestre 5/Estructuras de datos y laboratorio/Dataview Notas conceptuales.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Árbol M-way.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Hashing dinámico.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Hashing estático.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Hashing.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Encadenamiento separado.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Área de overflow.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Árboles B.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Registros.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Hashing dinámico lineal.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Buckets.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Encadenamiento.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Factor de carga.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Direccionamiento abierto.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Exposiciones/WebSocket.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Exposiciones/CSS.md",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución exponencial.md",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución Poisson.md",
     "Imágenes adjuntas/Figura 17.png",
@@ -180,24 +196,9 @@
     "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Variable aleatoria contínua.md",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Variable aleatoria discreta.md",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Valor esperado.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 2 - Probabilidad/Probabilidad.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 1 - Estadística descriptiva/Desviación estándar (v.a).md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución de variables aleatorias discretas.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución hipergeométrica.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución binomial.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución Bernoulli.md",
-    "Tutorías/Tutoría.md",
-    "Semestre 5/Estructuras de datos y laboratorio/Árboles B.md",
-    "Semestre 5/Estructuras de datos y laboratorio/Árbol M-way.md",
-    "Semestre 5/Estructuras de datos y laboratorio/Hashing dinámico.md",
-    "Semestre 5/Estructuras de datos y laboratorio/Hashing dinámico lineal.md",
     "Imágenes adjuntas/Figura 13.png",
     "Imágenes adjuntas/Figura 13.png",
-    "Semestre 5/Estructuras de datos y laboratorio/Factor de carga.md",
     "Imágenes adjuntas/Figura 12.png",
-    "Tutorías/Simulación parcial proposicional 2021-2.md",
-    "Tutorías/Demostración de teoremas del enfoque axiomático.md",
-    "Untitled.md",
     "Imágenes adjuntas",
     "Tareas prueba",
     "Semestre 3/Cálculo integral",

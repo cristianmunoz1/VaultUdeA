@@ -2,6 +2,7 @@
 Asignatura: Estructuras de datos y laboratorio
 Fecha de clase: 2023-09-18
 Tipo: Exposición
+Completo: true
 ---
 Protocolo de transmisión de datos
 

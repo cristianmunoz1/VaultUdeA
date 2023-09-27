@@ -3,6 +3,7 @@ Asignatura: Estructuras de datos y laboratorio
 Tipo: Conceptual
 Completo: true
 Unidad: Unidad 1
+Fecha: 2023-09-06
 ---
 
 Este direccionamiento de los [[Registros]] en el disco para mapearlos, se realiza con un rehashing. 

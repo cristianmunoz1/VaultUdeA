@@ -2,7 +2,8 @@
 Asignatura: Estructuras de datos y laboratorio
 Unidad: Unidad 1
 Completo: true
-Fecha de clase: 2023-09-04
+Fecha: 2023-09-08
+Tipo: Conceptual
 ---
 
 
