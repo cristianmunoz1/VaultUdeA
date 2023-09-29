@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestre 5/Estructuras de datos y laboratorio/Árboles B.md",
+                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas para variables discretas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestre 5/Estructuras de datos y laboratorio/Árboles B.md",
+                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas para variables discretas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestre 5/Estructuras de datos y laboratorio/Árboles B.md",
+                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas para variables discretas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestre 5/Estructuras de datos y laboratorio/Árboles B.md"
+                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas para variables discretas.md"
               }
             }
           },
@@ -158,6 +158,11 @@
   },
   "active": "ea39c5c18e54111d",
   "lastOpenFiles": [
+    "Imágenes adjuntas/Pasted image 20230928143117.png",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas para variables discretas.md",
+    "Semestre 5/Estructuras de datos y laboratorio/Árboles B.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas",
     "Semestre 5/Estructuras de datos y laboratorio/Dataview Notas conceptuales.md",
     "Semestre 5/Estructuras de datos y laboratorio/Árbol M-way.md",
     "Semestre 5/Estructuras de datos y laboratorio/Hashing dinámico.md",
@@ -165,7 +170,6 @@
     "Semestre 5/Estructuras de datos y laboratorio/Hashing.md",
     "Semestre 5/Estructuras de datos y laboratorio/Encadenamiento separado.md",
     "Semestre 5/Estructuras de datos y laboratorio/Área de overflow.md",
-    "Semestre 5/Estructuras de datos y laboratorio/Árboles B.md",
     "Semestre 5/Estructuras de datos y laboratorio/Registros.md",
     "Semestre 5/Estructuras de datos y laboratorio/Hashing dinámico lineal.md",
     "Semestre 5/Estructuras de datos y laboratorio/Buckets.md",
@@ -193,16 +197,12 @@
     "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 1 - Estadística descriptiva",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Variable aleatoria contínua.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Variable aleatoria discreta.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Valor esperado.md",
     "Imágenes adjuntas/Figura 13.png",
     "Imágenes adjuntas/Figura 13.png",
     "Imágenes adjuntas/Figura 12.png",
     "Imágenes adjuntas",
     "Tareas prueba",
     "Semestre 3/Cálculo integral",
-    "Semestre 5/English III",
-    "Semestre 2/Cálculo diferencial"
+    "Semestre 5/English III"
   ]
 }
