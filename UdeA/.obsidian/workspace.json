@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas para variables discretas.md",
+                "file": "Tutorías/Lógica cuantificacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "bbd5dce51937cd84",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas para variables discretas.md",
+                "file": "Tutorías/Lógica cuantificacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas para variables discretas.md",
+                "file": "Tutorías/Lógica cuantificacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas para variables discretas.md"
+                "file": "Tutorías/Lógica cuantificacional.md"
               }
             }
           },
@@ -158,9 +158,19 @@
   },
   "active": "ea39c5c18e54111d",
   "lastOpenFiles": [
+    "Imágenes adjuntas/Pasted image 20230929205504.png",
+    "Imágenes adjuntas/Pasted image 20230929205353.png",
+    "Tutorías/Lógica cuantificacional.md",
+    "Imágenes adjuntas/Pasted image 20230929202412.png",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas para variables conjuntas.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas para variables discretas.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución de variables aleatorias discretas.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución Bernoulli.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución Poisson.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución hipergeométrica.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución binomial.md",
     "Imágenes adjuntas/Pasted image 20230928143117.png",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas para variables discretas.md",
     "Semestre 5/Estructuras de datos y laboratorio/Árboles B.md",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas",
     "Semestre 5/Estructuras de datos y laboratorio/Dataview Notas conceptuales.md",
@@ -178,28 +188,18 @@
     "Semestre 5/Estructuras de datos y laboratorio/Direccionamiento abierto.md",
     "Semestre 5/Estructuras de datos y laboratorio/Exposiciones/WebSocket.md",
     "Semestre 5/Estructuras de datos y laboratorio/Exposiciones/CSS.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución exponencial.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución Poisson.md",
     "Imágenes adjuntas/Figura 17.png",
     "Imágenes adjuntas/Figura 16.png",
     "Imágenes adjuntas/Figura 15.png",
     "Imágenes adjuntas/Figura 14.png",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución normal.md",
     "Imágenes adjuntas/Pasted image 20230927100718.png",
     "Imágenes adjuntas/Pasted image 20230927100544.png",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Función de densidad de probabilidad.md",
     "Imágenes adjuntas/Pasted image 20230926212002.png",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Aproximación de una binomial con una normal.md",
-    "0002-09-25.md",
-    "Semestre 5/Teoría de probabilidad y colas/Base de datos.md",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 2 - Probabilidad",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 1 - Estadística descriptiva",
-    "Imágenes adjuntas/Figura 13.png",
-    "Imágenes adjuntas/Figura 13.png",
-    "Imágenes adjuntas/Figura 12.png",
     "Imágenes adjuntas",
     "Tareas prueba",
     "Semestre 3/Cálculo integral",
