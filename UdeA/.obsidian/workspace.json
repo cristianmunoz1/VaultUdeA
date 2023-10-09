@@ -8,18 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "663d0e26a8b27550",
+            "id": "3925a665f9ecc709",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f71a926c0fd0f6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Varianza (v.a).md",
+                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Teorema del límite central.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.51103591918945
+    "width": 309.51103591918945
   },
   "right": {
     "id": "bbd5dce51937cd84",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Varianza (v.a).md",
+                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Teorema del límite central.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Varianza (v.a).md",
+                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Teorema del límite central.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Varianza (v.a).md"
+                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Teorema del límite central.md"
               }
             }
           },
@@ -156,43 +165,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "663d0e26a8b27550",
+  "active": "2f71a926c0fd0f6c",
   "lastOpenFiles": [
-    "Tutorías/Tutoría Cuantificacional.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Distribución de la media - Población normal.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Teorema del límite central.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Estadístico.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Varianza de la media muestral.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Promedio de la media muestral.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Distribuciones muestrales.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Muestra aleatoria.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Variables aleatorias independientes.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Correlación.md",
+    "Imágenes adjuntas/Pasted image 20231009151034.png",
+    "Imágenes adjuntas/Pasted image 20231009151004.png",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Medidas de dependencia.md",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Varianza (v.a).md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Valor esperado.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Función de distribución acumulada v.a.c.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Función de masa de probabilidad.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Función de distribución acumulada v.a.d.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Función de densidad de probabilidad.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución normal.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Variable aleatoria contínua.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Variable aleatoria discreta.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Variables aleatorias.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas para variables discretas.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Varianza para distribuciones conjuntas.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Covarianza.md",
+    "Imágenes adjuntas/Pasted image 20231009114710.png",
+    "Imágenes adjuntas/Pasted image 20231009114640.png",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Valor esperado para distribuciones conjuntas.md",
+    "Semestre 3/Cálculo integral/Integrales dobles.md",
+    "Imágenes adjuntas/Pasted image 20231009084953.png",
+    "Imágenes adjuntas/Pasted image 20231009084840.png",
+    "Imágenes adjuntas/Pasted image 20231009083528.png",
+    "Imágenes adjuntas/Pasted image 20231009082424.png",
+    "Imágenes adjuntas/Pasted image 20231009081029.png",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Función de densidad de probabilidad conjunta.md",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas para variables contínuas.md",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas.md",
-    "Imágenes adjuntas/Pasted image 20231002164533.png",
-    "Imágenes adjuntas/Pasted image 20231002163927.png",
-    "Imágenes adjuntas/Pasted image 20231002162002.png",
-    "Imágenes adjuntas/Pasted image 20231002160344.png",
-    "Imágenes adjuntas/Pasted image 20231002155425.png",
-    "Imágenes adjuntas/Pasted image 20231002155019.png",
-    "Imágenes adjuntas/Pasted image 20231002154822.png",
-    "Imágenes adjuntas/Pasted image 20231002153335.png",
-    "Imágenes adjuntas/Pasted image 20231002152019.png",
-    "Imágenes adjuntas/Pasted image 20231002151621.png",
-    "Tutorías/Tutoría proposicional.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas para variables discretas.md",
     "Tutorías/Lógica cuantificacional.md",
-    "Función de densidad de probabilidad conjunta.md",
-    "Semestre 3/Cálculo integral/Integrales dobles.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 1 - Estadística descriptiva/Desviación estándar (v.a).md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución de variables aleatorias discretas.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución binomial.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución Bernoulli.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución exponencial.md",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución Poisson.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución hipergeométrica.md",
+    "Imágenes adjuntas/Pasted image 20231006202909.png",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Función de distribución acumulada v.a.d.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Valor esperado.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución normal.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución Bernoulli.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución binomial.md",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 2 - Probabilidad",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones",
@@ -201,7 +212,6 @@
     "Semestre 5/Teoría de probabilidad y colas/Unidad 1 - Estadística descriptiva",
     "Imágenes adjuntas",
     "Tareas prueba",
-    "Semestre 3/Cálculo integral",
-    "Semestre 5/English III"
+    "Semestre 3/Cálculo integral"
   ]
 }

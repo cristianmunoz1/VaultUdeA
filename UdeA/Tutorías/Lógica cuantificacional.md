@@ -137,3 +137,60 @@ Ai, y sólo si, no se encuentra libre de al menos una variable.
 $P_{x|t}$ es una fbf que se obtiene de la fbf P mediante el reemplazo de las ocurrencias libres de 𝑥 por un término 𝑡; a esta operación se le denomina *particularización*.
 
 
+#### Operación variante
+
+![[Pasted image 20231006191511.png]]
+
+
+**Definición: **
+
+$\forall y P_{x|y}$ es una fbf que se obtiene de la fbf $\forall x P$.   Esta operación se aplica en caso de que sea posible, con el fin de efectuar reemplazos de signos de variable. 
+
+*La fbf resultante de aplicar la operación variante es equivalente, desde el punto de vista lógico a la fbf de la que se obtuvo.*
+
+
+
+---
+
+
+
+### Reglas de validez
+
+
+#### Ejemplificación universal (E.U)
+
+$$\forall x P ⊢ P_{x|t}$$
+
+*El término t debe ser libre de la variable x en la fbf P*
+*Quitamos el cuantificador y particularizamos con alguna constante que cumpla*
+
+#### Ejemplificación existencial (E.E)
+
+$$\exists x P ⊢ P_{x|e}$$
+
+*El término t debe ser libre de la variable x en la fbf P*
+*Quitamos el cuantificador y particularizamos con alguna constante que cumpla*
+
+
+*El término t **no** puede emplearse si aparece como variable con **Ocurrencia libre** o como constante en a) alguna de las premisas, b) en alguna fbf obtenida en algún paso de la deducción, o c) en la fbf de la conclusión*
+
+
+#### Generalización universal (G.U)
+
+$$P⊢\forall x P$$
+
+
+**Tenga en cuenta:**
+
+- No aplique G.U sobre cualquier término de una fbf P si en esta aún existen términos producidos en pasos previos mediante E.E
+
+
+#### Generalización existencial (G.E)
+
+$$P⊢\exists P$$
+
+
+#### Teorema C6a
+![[Pasted image 20231006202909.png]]
+
+

@@ -14,3 +14,4 @@ Si se tienen más de 2 variables, se llama **Distribución multivariada**
 
 1. [[Distribuciones conjuntas para variables discretas]]
 2. [[Distribuciones conjuntas para variables contínuas]]
+3. 

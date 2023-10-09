@@ -17,7 +17,7 @@ $V[X]=\sigma^2=p(1-p)$
 
 
 
-Cuando trabajamos con estas distribuciones, siempre vamos a etiquetar los casos de 2 posibles formas. **Éxito** o **fracaso**, dependiendo de cual es mi objetivo y qué es lo que estoy analizando. Y se realiza el experimento una sola vez. 
+Cuando trabajamos con estas distribuciones, siempre vamos a etiquetar los casos de 2 posibles formas. **Éxito** o **fracaso**, dependiendo de cual es mi objetivo y qué es lo que estoy analizando. Y se realiza el experimento **una sola vez**. 
 
 Si analizamos la función de masa de probabilidad que definimos anteriormente, podemos hallar que:
 
