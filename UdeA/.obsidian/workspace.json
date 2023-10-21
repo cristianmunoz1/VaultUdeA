@@ -11,8 +11,12 @@
             "id": "3925a665f9ecc709",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 6 - Estimadores por intervalos/Intervalos de confianza.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,14 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Teorema del límite central.md",
+                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Valor esperado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfbd191e3655212e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Varianza de la media muestral.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "varianza",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.51103591918945
+    "width": 249.51103591918945
   },
   "right": {
     "id": "bbd5dce51937cd84",
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Teorema del límite central.md",
+                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 6 - Estimadores por intervalos/Intervalos de confianza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Teorema del límite central.md",
+                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 6 - Estimadores por intervalos/Intervalos de confianza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Teorema del límite central.md"
+                "file": "Semestre 5/Teoría de probabilidad y colas/Unidad 6 - Estimadores por intervalos/Intervalos de confianza.md"
               }
             }
           },
@@ -165,45 +180,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f71a926c0fd0f6c",
+  "active": "3925a665f9ecc709",
   "lastOpenFiles": [
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Distribución de la media - Población normal.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Teorema del límite central.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Estadístico.md",
+    "Imágenes adjuntas/Pasted image 20231020221420.png",
+    "Imágenes adjuntas/Pasted image 20231020203954.png",
+    "Imágenes adjuntas/Pasted image 20231020200959.png",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 6 - Estimadores por intervalos/Intervalos de confianza.md",
+    "Imágenes adjuntas/Pasted image 20231020200455.png",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución normal.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 6 - Estimadores por intervalos",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Error cuadrático medio.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Valor esperado.md",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Varianza de la media muestral.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Estimador insesgado.md",
+    "Semestre 2/Cálculo diferencial/Familia de funciones.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Error estándar.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Estimador.md",
+    "Semestre 2/Cálculo diferencial/Función monótona creciente.md",
+    "Semestre 2/Cálculo diferencial/Función contínua.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Ley débil de los grandes números.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Desigualdad de Markov.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Desigualdad de Chebyshev.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Valor esperado para distribuciones conjuntas.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Varianza (v.a).md",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Promedio de la media muestral.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Distribuciones muestrales.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Estadístico.md",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Muestra aleatoria.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Variables aleatorias independientes.md",
+    "Semestre 3/Cálculo integral/Integrales dobles.md",
+    "Tutorías/Lógica cuantificacional.md",
+    "Tutorías/Simulación parcial proposicional 2021-2.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Teorema del límite central.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Distribución de la media - Población normal.md",
+    "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales/Distribuciones muestrales.md",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 5 - Distribuciones muestrales",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Correlación.md",
     "Imágenes adjuntas/Pasted image 20231009151034.png",
     "Imágenes adjuntas/Pasted image 20231009151004.png",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Medidas de dependencia.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Varianza (v.a).md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Varianza para distribuciones conjuntas.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Covarianza.md",
     "Imágenes adjuntas/Pasted image 20231009114710.png",
     "Imágenes adjuntas/Pasted image 20231009114640.png",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Valor esperado para distribuciones conjuntas.md",
-    "Semestre 3/Cálculo integral/Integrales dobles.md",
     "Imágenes adjuntas/Pasted image 20231009084953.png",
     "Imágenes adjuntas/Pasted image 20231009084840.png",
     "Imágenes adjuntas/Pasted image 20231009083528.png",
-    "Imágenes adjuntas/Pasted image 20231009082424.png",
-    "Imágenes adjuntas/Pasted image 20231009081029.png",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Función de densidad de probabilidad conjunta.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas para variables contínuas.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas/Distribuciones conjuntas para variables discretas.md",
-    "Tutorías/Lógica cuantificacional.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución Poisson.md",
-    "Imágenes adjuntas/Pasted image 20231006202909.png",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Función de distribución acumulada v.a.d.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Teoría general/Valor esperado.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución normal.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución Bernoulli.md",
-    "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones/Distribución binomial.md",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 4 - Distribuciones conjuntas",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 2 - Probabilidad",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias/Distribuciones",
@@ -211,7 +227,6 @@
     "Semestre 5/Teoría de probabilidad y colas/Unidad 3 - Variables aleatorias",
     "Semestre 5/Teoría de probabilidad y colas/Unidad 1 - Estadística descriptiva",
     "Imágenes adjuntas",
-    "Tareas prueba",
-    "Semestre 3/Cálculo integral"
+    "Tareas prueba"
   ]
 }
